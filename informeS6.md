@@ -103,7 +103,7 @@ docker-wordpress$ docker compose up -d
 
 **Probando la conexión:** Una vez en Wordpress podemos publicar un post y luego ver que esta instancia fue creada en phpmyadmi.
 
-![Figura 1. diagrama](./img/compose11.png) ![Figura 1. diagrama](./img/wp6.png)
+![Figura 1. diagrama](./img/compose11.png)
 
 Esto significa que la practica ha sido todo un exito.
 
