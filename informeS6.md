@@ -71,12 +71,19 @@ mkdir -p ~/Proyectos/docker-wordpress
 5. Las redes y volumenes se configuran al final 
 
 Mysql
+
 ![Figura 1. mysql](./img/compose2.png)
+
 Wordpress
+
 ![Figura 1. mysql](./img/compose3.png)
+
 Phpmyadmy
+
 ![Figura 1. mysql](./img/compose4.png)
+
 Red y Volumen
+
 ![Figura 1. mysql](./img/compose5.png)
 
 **Paso 4:** Ejecutamos el archivo Yml con Docker compose
